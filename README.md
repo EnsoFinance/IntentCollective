@@ -16,6 +16,7 @@
 ## Intent Networks
 [1inch](https://1inch.io/)  
 [Anoma](https://anoma.net/)  
+[Across](https://across.to/)  
 [Aori](https://www.aori.io/)  
 [Aperture](https://aperture.finance/)  
 [Bebop](https://bebop.xyz/)  
