@@ -14,6 +14,7 @@
 ## Intent Networks
 [1inch](https://1inch.io/)  
 [Anoma](https://anoma.net/)  
+[Aori](https://www.aori.io/)  
 [Bebop](https://bebop.xyz/)  
 [Brink](https://www.brink.trade/)  
 [Connext](https://www.connext.network/)  
