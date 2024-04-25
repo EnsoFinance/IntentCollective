@@ -6,41 +6,42 @@
 # Projects
 
 ## Intent Networks
-[CowSwap](https://cow.fi/)  
 [1inch](https://1inch.io/)  
-[UniswapX](https://uniswap.org/)  
-[Brink](https://www.brink.trade/)  
-[Symm](https://symm.io/)  
-[IntentX](https://intentx.io/)  
+[Anoma](https://anoma.net/)  
 [Bebop](https://bebop.xyz/)  
+[Brink](https://www.brink.trade/)  
+[Connext](https://www.connext.network/)  
+[CowSwap](https://cow.fi/)  
 [DeBridge](https://debridge.finance/)  
 [FastLane Atlas](https://github.com/FastLane-Labs/atlas/tree/main)  
-[Valantis](https://valantis.xyz/)  
-[Particle](https://particle.network/)  
-[Paraswap](https://www.paraswap.io/)  
-[Connext](https://www.connext.network/)  
-[Socket](https://www.socket.tech/)  
-[RainLang](https://rainlang.xyz/)  
+[Flashbots](https://www.flashbots.net/)  
+[IntentX](https://intentx.io/)  
 [Khalani](https://khalani.network/)  
 [MyCel](https://www.mycel.domains/)  
-[Anoma](https://anoma.net/)  
-[Flashbots](https://www.flashbots.net/)  
+[Paraswap](https://www.paraswap.io/)  
+[Particle](https://particle.network/)  
+[RainLang](https://rainlang.xyz/)  
+[Shogun](https://twitter.com/shogunfi)  
+[Socket](https://www.socket.tech/)  
+[Symm](https://symm.io/)  
+[UniswapX](https://uniswap.org/)  
+[Valantis](https://valantis.xyz/)  
 
 ## Intent Engines
 [Enso](https://www.enso.finance/)  
 
 ## Solvers
 [Barter](https://twitter.com/BarterDeFi)  
-[PropellerHeads](https://www.propellerheads.xyz/)  
+[Copium](https://twitter.com/copiumnicus)  
 [Opium]()  
 [Otex](https://otex.tools/)  
-[Copium](https://twitter.com/copiumnicus)  
+[PropellerHeads](https://www.propellerheads.xyz/)  
 
 ## Intent Chains
 [Essential](https://essential.builders/)  
 
 ## Apps
 [BrianKnows](https://www.brianknows.org/)  
-[Velvet](https://www.velvet.capital/)  
 [Caddi](https://www.caddi.fi/)  
 [Portfo](https://porfo.app/)  
+[Velvet](https://www.velvet.capital/)  
