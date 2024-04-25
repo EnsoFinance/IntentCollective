@@ -23,6 +23,7 @@
 [DeBridge](https://debridge.finance/)  
 [FastLane Atlas](https://github.com/FastLane-Labs/atlas/tree/main)  
 [Flashbots](https://www.flashbots.net/)  
+[Intentify](https://www.intentify.network/)  
 [IntentX](https://intentx.io/)  
 [Khalani](https://khalani.network/)  
 [MyCel](https://www.mycel.domains/)  
