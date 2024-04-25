@@ -6,6 +6,7 @@
 # Projects
 
 ## Apps
+[Astaria](https://astaria.xyz/)
 [BrianKnows](https://www.brianknows.org/)  
 [Caddi](https://www.caddi.fi/)  
 [Portfo](https://porfo.app/)  
