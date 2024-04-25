@@ -5,6 +5,12 @@
 
 # Projects
 
+## Apps
+[BrianKnows](https://www.brianknows.org/)  
+[Caddi](https://www.caddi.fi/)  
+[Portfo](https://porfo.app/)  
+[Velvet](https://www.velvet.capital/)  
+
 ## Intent Networks
 [1inch](https://1inch.io/)  
 [Anoma](https://anoma.net/)  
@@ -30,6 +36,9 @@
 ## Intent Engines
 [Enso](https://www.enso.finance/)  
 
+## Intent Chains
+[Essential](https://essential.builders/)  
+
 ## Solvers
 [Barter](https://twitter.com/BarterDeFi)  
 [Copium](https://twitter.com/copiumnicus)  
@@ -37,11 +46,4 @@
 [Otex](https://otex.tools/)  
 [PropellerHeads](https://www.propellerheads.xyz/)  
 
-## Intent Chains
-[Essential](https://essential.builders/)  
 
-## Apps
-[BrianKnows](https://www.brianknows.org/)  
-[Caddi](https://www.caddi.fi/)  
-[Portfo](https://porfo.app/)  
-[Velvet](https://www.velvet.capital/)  
