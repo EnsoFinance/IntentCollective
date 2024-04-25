@@ -9,6 +9,7 @@
 [Astaria](https://astaria.xyz/)  
 [BrianKnows](https://www.brianknows.org/)  
 [Caddi](https://www.caddi.fi/)  
+[CroutonSwap](https://croutonswap.com/)
 [Portfo](https://porfo.app/)  
 [Velvet](https://www.velvet.capital/)  
 
