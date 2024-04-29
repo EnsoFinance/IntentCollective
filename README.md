@@ -30,7 +30,7 @@
 [Intentify](https://www.intentify.network/)  
 [IntentX](https://intentx.io/)  
 [Khalani](https://khalani.network/)  
-[MyCel](https://www.mycel.domains/)  
+[Mycel](https://mycel.land/)  
 [Paraswap](https://www.paraswap.io/)  
 [Particle](https://particle.network/)  
 [RainLang](https://rainlang.xyz/)  
