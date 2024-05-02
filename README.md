@@ -28,8 +28,7 @@
 [Flashbots](https://www.flashbots.net/)  
 [Flood](https://www.flood.bid/)  
 [Intentify](https://www.intentify.network/)  
-[IntentX](https://intentx.io/)  
-[Khalani](https://khalani.network/)  
+[IntentX](https://intentx.io/)   
 [Mycel](https://mycel.land/)  
 [Paraswap](https://www.paraswap.io/)  
 [Particle](https://particle.network/)  
@@ -53,5 +52,8 @@
 [Opium]()  
 [Otex](https://otex.tools/)  
 [PropellerHeads](https://www.propellerheads.xyz/)  
+
+## Solver Infrastructure
+[Khalani](https://khalani.network/)  
 
 
