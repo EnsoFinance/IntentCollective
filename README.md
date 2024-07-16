@@ -55,5 +55,6 @@
 
 ## Solver Infrastructure
 [Khalani](https://khalani.network/)  
+[GlueX Protocol](https://gluex.xyz/)
 
 
